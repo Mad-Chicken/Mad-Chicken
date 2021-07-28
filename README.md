@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=%2FMad%2FChicken%2F%23896&logo=Discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=%2FMad%2FChicken%2F%238967&logo=Discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg)
 [![Github](https://img.shields.io/github/stars/Mad-Chicken?logoColor=ffffff&style=for-the-badge)](https://github.com/Mad-Chicken)
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/13204065?label=Stackoverflow&logo=stackoverflow&logoColor=ffffff&style=for-the-badge)](https://stackoverflow.com/users/13204065/andrew-a)
 [![DockerHub Profile](https://img.shields.io/badge/DockerHub-andrewaiken-informational?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/u/andrewaiken)
