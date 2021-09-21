@@ -9,8 +9,8 @@
 
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=%2FMad%2FChicken%2F%238967&logo=Discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg)
 [![Github](https://img.shields.io/github/stars/Mad-Chicken?logoColor=ffffff&style=for-the-badge)](https://github.com/Mad-Chicken)
-
 [![matrix](https://img.shields.io/static/v1?label=Matrix&message=@mad-chicken&logo=matrix&logoColor=ffffff&style=for-the-badge)](https://matrix.to/#/@mad-chicken:matrix.org)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mad-Chicken&hide=mcfunction&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
