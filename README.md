@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=%2FMad%2FChicken%2F%238967&logo=Discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=Mad%2FChicken%238967&logo=Discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg)
 [![Github](https://img.shields.io/github/stars/andrew-aiken?logoColor=ffffff&style=for-the-badge)](https://github.com/andrew-aiken)
 [![matrix](https://img.shields.io/static/v1?label=Matrix&message=@mad-chicken&logo=matrix&logoColor=ffffff&style=for-the-badge)](https://matrix.to/#/@mad-chicken:matrix.org)
 
