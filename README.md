@@ -1,6 +1,8 @@
 ## About
 I'm a DevSecOps Engineers and student.
 
+Check out my block at [infrasec.sh](https://infrasec.sh)
+
 If you have any questions reach out! [info@infrasec.sh](mailto:info@info@infrasec.sh)
 
 ## Organizations
