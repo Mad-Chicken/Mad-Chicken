@@ -3,8 +3,6 @@ I'm a DevSecOps Engineers and student.
 
 If you have any questions reach out! [info@infrasec.sh](mailto:info@info@infrasec.sh)
 
-<br>
-
 ## Organizations
 
 - https://neccdl.org
