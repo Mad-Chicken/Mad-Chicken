@@ -1,9 +1,9 @@
 ## About
 I'm a DevSecOps Engineers and student.
 
-Check out my block at [infrasec.sh](https://infrasec.sh)
+Check out my block at [infrasec.sh](https://infrasec.sh?utm_source=github)
 
-If you have any questions reach out! [info@infrasec.sh](mailto:info@info@infrasec.sh)
+If you have any questions reach out! [info@infrasec.sh](mailto:info@infrasec.sh)
 
 ## Organizations
 
