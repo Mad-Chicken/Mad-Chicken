@@ -1,14 +1,14 @@
 ## About
-I'm a DevSecOps Engineers and student.
+DevOps & Cloud Security Engineers.
 
-Check out my blog at [infrasec.sh](https://infrasec.sh?utm_source=github)
+Check out my blog at [infrasec.sh](https://infrasec.sh?utm_source=github_profile)
 
 If you have any questions reach out! [info@infrasec.sh](mailto:info@infrasec.sh)
 
 ## Organizations
 
 - https://neccdl.org
-- https://nerdsummit.org/
+- https://nerdsummit.org
 
 ## Projects
 - [neccdl-2023-R13-webapp](https://github.com/andrew-aiken/neccdl-2023-R13-webapp) - Publics website hosted on S3 for the 2023 NECCDL
